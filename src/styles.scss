@@ -1,0 +1,11 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #22b320;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+img{
+  width: 200px;
+}
